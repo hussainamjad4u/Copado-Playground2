@@ -302,7 +302,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </rightSection>
-    <runningUser>hussain.amjad4u@gmail.com.lab.production</runningUser>
+    <runningUser>hussain.amjad4u@gmail.com.lab.uat</runningUser>
     <textColor>#000000</textColor>
     <title>Adoption Dashboard</title>
     <titleColor>#000099</titleColor>
